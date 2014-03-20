@@ -1,9 +1,8 @@
 /*
  * ATtiny13_PowerManager.c
- *
- * Created: 2013-01-09
- * Author: Christian
  * Version: 1.2
+ *
+ * Copyright (c) 2014 Christian Isaksson
  */
 #define F_CPU 1200000UL
 

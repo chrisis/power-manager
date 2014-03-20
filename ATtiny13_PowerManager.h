@@ -1,9 +1,8 @@
 /*
  * ATtiny13_PowerManager.h
- *
- * Created: 2014-01-09
- * Author: Christian
  * Version: 1.2
+ *
+ * Copyright (c) 2014 Christian Isaksson
  */ 
 
 
