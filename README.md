@@ -1,2 +1,2 @@
-power-manager
+Power Manager till Raspberry Pi
 =============
