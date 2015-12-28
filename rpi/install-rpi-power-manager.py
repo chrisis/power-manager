@@ -36,7 +36,7 @@ shutdownScriptFile = '/sbin/shutdown'
 shutdownScriptContent = [
 	'#!/bin/sh',
 	'',
-	'Setup GPIO 24 as output',
+	'# Setup GPIO 24 as output',
 	'echo "out" > /sys/class/gpio/gpio24/direction',
 	'',
 	'# Check if poweroff has been initiated',
